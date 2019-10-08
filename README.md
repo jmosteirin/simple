@@ -38,4 +38,7 @@ Simple intends to be a simple way to generate common business application.
 			1. one2many
 			1. many2many
 	1. entity
+1. api components
+	1. API method
+	
 	
